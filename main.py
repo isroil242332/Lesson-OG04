@@ -1,2 +1,2 @@
-def delenie(a,b)
+def delenie(a,b):
     print(a / b)
